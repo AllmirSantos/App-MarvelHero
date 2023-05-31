@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "marvel-hero",
+    "slug": "marvel-hero",
+    "version": "1.0.0",
+    "splash": {
+      "image": "./src/assets/splash.jpg",
+      "resizeMode": "cover",
+      "backgroundColor": "#000000"
+    },
+    "icon": "./src/assets/iconApp.png",
+    "assetBundlePatterns": ["**/*"]
+  },
+  "name": "marvel-hero"
+}
